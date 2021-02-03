@@ -3,7 +3,7 @@ Machine-Learning Project for Master Degree Program in Data Science and Advanced 
 
 Objective - Prediction of Newland citizens' income
 
-Read the Project Guidelines if you want to know more about the subject.
+For information on the project guidelines please consult the document Project rules.
 
 Workflow:
 This work was developed during the 1st semester of the master and includes a jupyter notebook with the preprocessing of the data and appllication of several Machine Learning algorithms like: Naive Bayes, Decison Trees, Neural Networks, Support Vector Machine, Linear discriminant analysis, Knn, Random forest, Gradient Boosting, Adaboosting and other variations of bagging and stacking. Besides, it includes a report where the results are discussed and a conclusion on the best model is presented. Finally, the predictions obtained were submitted in a Kaggle competition as Group_29 and we obtained a f1 score of 0.87256. https://www.kaggle.com/c/newland/leaderboard
